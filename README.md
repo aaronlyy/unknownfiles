@@ -21,7 +21,7 @@ Install anonpy with pip
 
 ## About
 
-Made with ♥ by <https://github.com/aaronlyy>
+Made with ♥ by [aaronlyy](https://github.com/aaronlyy)
 
 ## License
 
